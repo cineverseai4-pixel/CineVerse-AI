@@ -1,5 +1,5 @@
-document.addEventListener("DOMContentLoaded", function () {
+function startApp() {
 
-    alert("🎬 Welcome to CineVerse AI!");
+    alert("🚀 Welcome to CineVerse AI!");
 
-});
+}
