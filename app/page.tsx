@@ -28,7 +28,7 @@ export default function Home() {
 
       <h1>CineVerse AI 🎬</h1>
 
-      <p>Your AI ❤️Movie & Web Series Assistant</p>
+      <p>🚀 Login • AI Image Generator • AI Video Generator • AI Voice Generator</p>
 
     </main>
 
