@@ -28,7 +28,7 @@ export default function Home() {
 
       <h1>CineVerse AI 🎬</h1>
 
-      <p>Your AI Movie & Web Series Assistant</p>
+      <p>Your AI ❤️Movie & Web Series Assistant</p>
 
     </main>
 
